@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "scoHlBk43LV1ASosX8ulHamKE1jrYqRnRbXsP6s0z0s=",
+  "Source": "domino-api",
+  "BasePath": "_content/domino-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
